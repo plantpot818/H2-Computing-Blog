@@ -1,4 +1,39 @@
-html {
-  height: 100%;
-  width: 100%;
+
+body {
+  background-color:sandybrown;
+}
+
+.top {
+  font-size: 20px;
+  border: solid;
+  background-color: #cab84e;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  padding: 20px; 
+}
+
+.blog {
+  font-size: 120%;
+  border: solid;
+  background-color: #f0802b;
+  padding: 20px;
+  margin: 10px;
+}
+
+.ventures {
+  font-size: 120%
+
+}
+
+.miniventures {
+  border: solid;
+  background-color: 	#015d82;
+  padding: 20px;
+  margin: 10px;
 }
